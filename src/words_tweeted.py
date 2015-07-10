@@ -25,7 +25,7 @@ file_output_1 = "ft1.txt"  # Calculate the total number of times each word has b
 file_output_2 = "ft2.txt"  # Calculate the median number of unique words per tweet, and update
                            # this median as tweets come in.
 
-chunk_bytes = 524288000 # 500 Mb
+chunk_bytes = 1048576000  # 1 GB
 
 ###===================================================================================###
 
